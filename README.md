@@ -35,4 +35,4 @@ Export to JSON or CSV
 GUI version (JavaFX or Swing)
 
 👤 Author
-Made by [Your Name] — built as a learning project to practice OOP, file I/O, and clean Java.
+Made by Mohamed Anouar Zaki — built as a learning project to practice OOP, file I/O, and clean Java.
