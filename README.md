@@ -14,12 +14,6 @@ You can use it to securely store and manage your login credentials for various s
 
 ## 📦 Usage
 
-Compile and run:
-
-```bash
-javac Main.java
-java Main
-
 Passwords are stored in a file named accounts.txt in the project root.
 
 For full password masking (hidden while typing), run the app in a system terminal (not IntelliJ).
